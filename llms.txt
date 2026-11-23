@@ -1,0 +1,34 @@
+# Veloxra, LLC
+
+> AI-accelerated Managed Service Provider (MSP) and cleared IT operations firm serving federal, defense, intelligence, state, and local agencies across the Washington, D.C. Metropolitan Area (DMV: Washington, D.C., Maryland, and Virginia).
+
+## Entity & Procurement Identifiers
+- **Legal Name:** Veloxra, LLC
+- **Jurisdiction:** Commonwealth of Virginia
+- **Business Size:** Small Business (For-Profit LLC)
+- **UEI:** [UEI_PENDING_SAM_VALIDATION]
+- **CAGE Code:** [CAGE_PENDING_DLA]
+- **Primary NAICS:** 541513 (Computer Facilities Management Services), 541512 (Computer Systems Design Services), 541519 (Other Computer Related Services), 811210 (Electronic and Precision Equipment Repair and Maintenance)
+- **Federal Payment Systems:** SAM.gov EFT, DoD PIEE / WAWF, Treasury IPP, Government Purchase Card (GPC Level 2/3)
+
+## Core Services
+- **Managed IT Services (MSP):** 24/7 monitoring, patch management, Tier 1–3 service desk augmentation, Zero Trust endpoint hardening.
+- **Cloud & Network Engineering:** Microsoft 365, Azure, AWS, hybrid infrastructure, LAN/WAN switching/routing, NIST SP 800-171 / CMMC Level 1 alignment.
+- **Software & Application Support:** Application sustainment, QA, workflow automation, SOP engineering.
+- **On-Site Hardware Refresh & Field Ops:** Rapid DMV-wide hardware replacement, component/motherboard swaps, workstation imaging, and cleared field dispatch.
+
+## Founding Team & Clearance Coverage
+- **Fuwad Tufail** — Founding Partner & Senior Management Official (SMO) | Clearance: Secret
+- **Nhan Ngyugen** — Founding Partner & Insider Threat Program Senior Official (ITPSO) | Clearance: Top Secret
+- **Ehson Ahmsa** — Founding Partner & Facility Security Officer (FSO) | Clearance: Top Secret / SCI
+- **Husam Tufail** — Founding Partner & Civilian Operations Lead | Clearance: Public Trust
+
+## Teaming & Security Posture
+- 100% U.S. citizen founding team.
+- Personnel hold active clearances from Public Trust through TS/SCI and are available immediately for subcontracting and DD Form 254 Facility Clearance (FCL) sponsorship with cleared prime contractors.
+
+## Contact
+- General & Teaming: info@veloxra.com
+- Federal RFQs & Bids: bids@veloxra.com
+- Capability Statement: /docs/Veloxra_Capability_Statement.md
+- Structured Manifest: /agent-manifest.json

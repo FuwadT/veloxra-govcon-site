@@ -1,0 +1,14 @@
+User-agent: *
+Allow: /
+
+# AI & LLM Crawlers Explicitly Welcomed
+User-agent: GPTBot
+Allow: /
+
+User-agent: ClaudeBot
+Allow: /
+
+User-agent: Google-Extended
+Allow: /
+
+Sitemap: https://veloxra.com/sitemap.xml

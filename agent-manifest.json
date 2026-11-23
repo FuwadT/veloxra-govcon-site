@@ -1,0 +1,40 @@
+{
+  "schema_version": "1.0.0",
+  "organization": {
+    "legal_name": "Veloxra, LLC",
+    "state_of_incorporation": "Virginia",
+    "service_region": ["Washington, D.C.", "Virginia", "Maryland"],
+    "business_type": "Small Business",
+    "uei": "[UEI_PENDING_SAM_VALIDATION]",
+    "cage_code": "[CAGE_PENDING_DLA]",
+    "gpc_accepted": true,
+    "payment_portals": ["SAM.gov EFT", "DoD PIEE / WAWF", "Treasury IPP", "GPC Level 2/3"]
+  },
+  "naics_codes": [
+    {"code": "541513", "title": "Computer Facilities Management Services", "primary": true},
+    {"code": "541512", "title": "Computer Systems Design Services", "primary": false},
+    {"code": "541519", "title": "Other Computer Related Services", "primary": false},
+    {"code": "811210", "title": "Electronic and Precision Equipment Repair and Maintenance", "primary": false}
+  ],
+  "capabilities": [
+    "Managed IT Services (MSP)",
+    "Cloud Architecture & Administration (Azure, AWS, M365)",
+    "Enterprise Network Engineering",
+    "Software & Application Support",
+    "Cleared On-Site Hardware Refresh & Component Replacement",
+    "CMMC Level 1 / NIST SP 800-171 Alignment"
+  ],
+  "leadership": [
+    {"name": "Fuwad Tufail", "role": "Founding Partner & SMO", "clearance_tier": "Secret"},
+    {"name": "Nhan Ngyugen", "role": "Founding Partner & ITPSO", "clearance_tier": "Top Secret"},
+    {"name": "Ehson Ahmsa", "role": "Founding Partner & FSO", "clearance_tier": "Top Secret/SCI"},
+    {"name": "Husam Tufail", "role": "Founding Partner & Civilian Operations Lead", "clearance_tier": "Public Trust"}
+  ],
+  "endpoints": {
+    "website": "/",
+    "llms_txt": "/llms.txt",
+    "capability_statement": "/docs/Veloxra_Capability_Statement.md",
+    "contact_general": "info@veloxra.com",
+    "contact_bids": "bids@veloxra.com"
+  }
+}
